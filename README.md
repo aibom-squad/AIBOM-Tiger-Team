@@ -30,4 +30,4 @@ For more information, don't hesitate to reach out to AIBOM Tiger Team co-leads:
 - [Helen Oakley](https://www.linkedin.com/in/helen-oakley/)
 - [Dmitry Raidman](https://www.linkedin.com/in/draidman/)
 
-![AIBOM Tiger Team](images/AIBOM_tiger_team.jpg)
+![AIBOM Tiger Team](https://github.com/aibom-workshop/AIBOM-Tiger-Team/blob/main/images/AIBOM-tiger-team.jpg?raw=true)
