@@ -20,7 +20,7 @@ The AIBOM Tiger Team is a community effort. It includes experts from various org
 - **Not advising USG:** This team does not set government policy.
 
 ### How to Get Involved
-- **Attend Weekly Calls:** Join our calls every Monday at 2 PM ET via Zoom (details in [Google Doc](https://docs.google.com/document/d/1vAbjjeWfgYzcsjgj8y5SjKl-n1DJvlBjbm2R5N_ciXk/edit?usp=sharing))
+- **Attend Weekly Calls:** Join our call on Mondays at 2 PM ET via Zoom (details in [Google Doc](https://docs.google.com/document/d/1vAbjjeWfgYzcsjgj8y5SjKl-n1DJvlBjbm2R5N_ciXk/edit?usp=sharing))
 - **Join Slack:** Participate in our discussions on Slack: bomworkingcommunity.slack.com
 - **Read Meeting Minutes:** Stay updated by reading the [Google Doc](https://docs.google.com/document/d/1vAbjjeWfgYzcsjgj8y5SjKl-n1DJvlBjbm2R5N_ciXk/edit?usp=sharing) for meeting minutes.
 
@@ -30,3 +30,4 @@ For more information, don't hesitate to reach out to AIBOM Tiger Team co-leads:
 - [Helen Oakley](https://www.linkedin.com/in/helen-oakley/)
 - [Dmitry Raidman](https://www.linkedin.com/in/draidman/)
 
+![AIBOM Tiger Team](images/AIBOM_tiger_team.png)
