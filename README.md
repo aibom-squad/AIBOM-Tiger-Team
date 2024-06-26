@@ -17,7 +17,7 @@ The AIBOM (Artificial Intelligence Bill of Materials) Tiger Team is a collaborat
 - Developing white papers and documentation
 - Identifying core problems related to AI transparency and finding relevant solution with AIBOM
 
-## What Problems We Are Trying to Address With This Working Group?
+## What Problems We Are Trying to Address With This Working Group
 Identified problems with current AI systems that could be addressed by AIBOM (or with the help of AIBOM). This list might be updated as we evolve.
 
 | **Problem Statement**                         | **Description**                                                                 |
