@@ -26,7 +26,7 @@ Identified problems with current AI systems that could be addressed by AIBOM (or
 | Difficulty in Ensuring Model Accuracy         | Ensuring the accuracy of training results and addressing model drift. How do we collect and verify data to maintain model accuracy over time? |
 | Inadequate Classification of Dataset Quality  | Classifying dataset sources and quality within AIBOMs is inconsistent. What standards should be used to ensure datasets are appropriately classified and trustworthy? |
 | Managing Model Weights                        | Handling the weights within models is complex and often lacks transparency. How can we make the management of model weights more transparent and secure? |
-| Unclear Customer Information Requirements     | Identifying the information required by customers about AI in software is challenging. What specific fields and data should be included to meet customer needs? |
+| Unclear Consumer Information Requirements     | Identifying the information required by consummers about AI in software is challenging. What specific fields and data should be included to meet consumers' needs? |
 | Handling Dynamic Data                         | Managing accuracy and handling dynamic, evolving data in AI systems. How do we ensure data integrity and accuracy as datasets change? |
 | Understanding AI Decision Making              | Understanding how AI decisions are made is often opaque. What information is needed to make AI decision processes transparent and understandable? |
 | Defining AI Use Cases                         | Determining appropriate and inappropriate use cases for AI systems. What criteria should be used to define the boundaries of AI application? |
