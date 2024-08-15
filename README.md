@@ -13,7 +13,7 @@ The AIBOM (Artificial Intelligence Bill of Materials) Tiger Team is a collaborat
 
 ## Key Activities
 - Creating use cases and examples for practical applications of AIBOM
-- Developing white papers and documentation
+- Developing white papers and documentation (see [Google Doc](https://docs.google.com/document/d/1vAbjjeWfgYzcsjgj8y5SjKl-n1DJvlBjbm2R5N_ciXk/edit?usp=sharing) for links to working docs on Use Cases)
 - Identifying core problems related to AI transparency and finding relevant solution with AIBOM: go to [this page](https://github.com/aibom-squad/AIBOM-Tiger-Team/blob/main/AIBOM-problem-statements.md)
 
 ## Participation
