@@ -29,6 +29,8 @@ The AIBOM TT (Artificial Intelligence Bill of Materials) (Tiger Team) is a colla
 - Check out AIBOM examples [here](https://github.com/aibom-squad/rsa-2024/tree/main/aibom%20workshop%20examples/cybeats/cyclonedx) (from AIBOM workshop at RSA 2024)
 - Get familiar with core problems, identified by the community and is work-in-progress content, related to AI transparency and relevance to AIBOM: go to [this page](https://github.com/aibom-squad/AIBOM-Tiger-Team/blob/main/AIBOM-problem-statements.md)
 - Learn about on-going work on AIBOM Use Cases is in the [Google Doc](https://docs.google.com/document/d/1IpXG7XBOJnPl_hwFf3JZkDaFb0k2CnI0/edit?usp=sharing&ouid=110194678381965933391&rtpof=true&sd=true): the spreadsheet with use case breakdown, consolidated AIBOM use case doc (for publishing), and meeting minutes
+- AIBOM Tiger Team presentation at CISA SBOM-a-Rama in Denver, Fall 2024: [AIBOM TT Update (Sept-11-2024)](https://drive.google.com/file/d/1cXZ4Nzaue2C5D_ylyn_ZKi66U9jUQ_iu/view?usp=sharing)
+- AIBOM Workshop repos: [AIBOM Workshop at RSA USA 2024](https://github.com/aibom-squad/rsa-2024) and [AIBOM Workshop at SBOM-a-Rama 2024](https://github.com/aibom-squad/SBOM-a-Rama_AIBOM_Fall2024)
 
 ## Participation
 The AIBOM Tiger Team is a community effort. It includes experts from various organizations, contributing diverse perspectives and expertise. We encourage collaboration and welcome new members who are passionate about AI security and transparency.
